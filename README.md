@@ -27,6 +27,7 @@ conda install -y -c conda-forge rasterio=1.0.21
 
  - Click "Data" the following URL
 [https://www.eorc.jaxa.jp/ALOS/en/alos-ori/data/av2ori.r05/p071D/f2900p3p00.000/ALAV2A200132900-OORIRFU-D071P3-20091027-001.html]
+   * File name : ALAV2A200132900-OORIRFU-D071P3-20091027-001.zip
 
 ## Jupyter Notebook on nbviewer
 
