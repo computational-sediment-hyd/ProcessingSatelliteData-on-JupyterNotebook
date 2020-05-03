@@ -4,7 +4,6 @@ Processing Satellite Data (ALOS/AVNIR2) on Jupyter Notebook
 ![demo](/page/top.png)
 
 ## Requirement
- - Windows 10
  - Python(Anaconda)
 
 ## Python environment
